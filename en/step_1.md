@@ -1,58 +1,45 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+In this project you will train the computer to look for patterns in how your classmates get to school. You’ll test this training by getting the computer to predict how different people travel to school. 
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![The machine learning model predicting an answer](images/test.png)
 
 --- collapse ---
 ---
 title: What you will need
 ---
-### Hardware
 
-+ Describe hardware here
+### Hardware
++ A computer with an internet connection
 
 ### Software
-
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
++ An account on machinelearningforkids.co.uk (optional)
 --- /collapse ---
 
 --- collapse ---
 ---
 title: What you will learn
 ---
-
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
++ How to collect data by doing a survey
++ How to train a machine learning model to recognise numbers
++ How to use your trained machine learning model to predict things
 
 --- /collapse ---
+
+--- no-print ---
+
+### Additional information for educators
+
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/journey-to-school/print){:target="_blank"}.
+
+[Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go).
+
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+
+--- /no-print ---
+
+### License
+
+This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}

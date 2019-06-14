@@ -1,11 +1,19 @@
-title: journey-to-school
+title: Journey to school
 hero_image: images/banner.png
-description: journey-to-school description
-version: 4
+description: Train a computer to guess how your classmates get to school
+theme: orange
 listed: false
 copyedit: false
-last_tested: "2019-06-14"
+technologies: scratch
+software: scratch
+version: 4.0.0
+last_tested: "2019-06-04"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Create new project to recognise numbers
+  - title: Collect data
+  - title: Train new machine learning model
+  - title: Test your model
+  - title: "Challenge: use your model in Scratch"
+    challenge: true
   - title: What next?
