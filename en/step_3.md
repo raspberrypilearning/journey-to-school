@@ -1,5 +1,5 @@
 ## Collect data
-For this project, you will need to do a survey with your classmates. The more people you can ask, the better! **If you are not able to run a survey, that's no problem. You can find sample results [here](link to survey)**
+For this project, you will need to do a survey with your classmates. The more people you can ask, the better! **If you are not able to run a survey, that's no problem. You can find sample results [here](resources/)**
 
 --- task ---
 + Write 2 or 3 questions you could ask your classmates that could affect how they travel to school. You need questions that they can answer with a number. For the rest of this worksheet, we’ll use:
