@@ -1,0 +1,11 @@
+title: journey-to-school
+hero_image: images/banner.png
+description: journey-to-school description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2019-06-14"
+steps:
+  - title: Introduction
+  - title: Step title
+  - title: What next?
