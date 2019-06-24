@@ -28,17 +28,21 @@ title: What you will learn
 
 --- /collapse ---
 
+--- collapse ---
+
 --- no-print ---
 
 ### Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/journey-to-school/print){:target="_blank"}.
 
-[Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go).
+[Here is a link to the resources for this project -TODO when going live-](http://rpf.io/project-name-go).
 
 Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
 
 --- /no-print ---
+
+--- /collapse ---
 
 ### License
 

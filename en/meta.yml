@@ -11,7 +11,7 @@ last_tested: "2019-06-04"
 steps:
   - title: Introduction
   - title: Create new project to recognise numbers
-  - title: Collect data
+  - title: Entering data
   - title: Train new machine learning model
   - title: Test your model
   - title: "Challenge: use your model in Scratch"
