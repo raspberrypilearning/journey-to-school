@@ -28,7 +28,7 @@ Now, go back to the computer!
 
 + Click the **Add a new project** button.
 
-+ Name your project `Journey to school` and set it to learn how to recognise `numbers`. 
++ Name your project `journey to school` and set it to learn how to recognise `numbers`. 
 ![Create a project page](images/create.png)
 
 + Click on **Add a value**. Name it `age` (or the value in the first column of your table) and make the type `number`. 
@@ -36,7 +36,7 @@ Now, go back to the computer!
 
 + Click **Add another value**. Name the value `distance` (or the value in the second column of your table) and make the type `number`. 
 
-+ Add another value called `friends` (or the value in the third column of your table) and make the type `number`. 
++ Repeat the last instruction to add another value called `friends` (or the value in the third column of your table) and make the type `number`. 
 
 + When you the page looks like the picture above, click on **Create**. 
 
