@@ -1,46 +1,45 @@
-## Create new project to recognise numbers
+## Create a new project to recognise numbers
 
-For this project, you will need to do a survey with your classmates. The more people you can ask, the better! **If you are not able to run a survey, that's no problem. You can find sample results [here](https://github.com/raspberrypilearning/journey-to-school/tree/draft/en/resources){:target="_blank"}**
+For this project, you will need to do a survey with your classmates. The more people you ask, the better! **Note:** If you cannot run a survey, that's OK. You can [find sample results here](https://github.com/raspberrypilearning/journey-to-school/tree/draft/en/resources){:target="_blank"}.
 
 --- task ---
-+ Write 2 or 3 questions you could ask your classmates that could affect how they travel to school. You need questions that they can answer with a number. For the rest of this worksheet, we’ll use:
++ Write two or three questions to ask your classmates about how they travel to school. You need questions that they can answer with a number. You could use:
 Age (in years)
 Distance (miles from home to school)
 Number of siblings or school friends who live nearby
-But you can choose your own values. Make sure that they are numbers, and pick things that could possibly have something to do with their journey to school.
+But you can choose your own values. Make sure that the answers are numbers, and pick things that have something to do with their journey to school.
 
-+ Draw up a table to collect the results, and then go do your survey. Remember to ask how they travel to school as well as your questions. The more children you ask, the better. If you can ask children from different classes and years, even better.
++ Draw up a table to collect the results, and then do your survey. Remember to ask your classmates how they travel to school, as well as your questions. The more people you ask, the better. It is even better if you can ask people from different classes and years.
 ![An example of a survey sheet](images/survey-sheet.png)
 --- /task ---
 
 --- task ---
-Now let’s go back to the computer!
+Now, go back to the computer!
 
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}
 
-+ Click on **Get Started**
++ Click on **Get started**.
 
-+ **If** you have an account, click on **Log In** and type your username and password. Otherwise, click on **Try it now**
++ If you have an account, click on **Log in**, then type in your username and password. If you do not have an account, click on **Try it now**.
 --- /task ---
 
 --- task ---
-+ Click on **Projects** on the top menu bar
++ Click on **Projects** in the menu bar at the top of the page.
 
-+ Click the **+ Add a new project** button.
++ Click the **Add a new project** button.
 
-+ Name your project “Journey to school” and set it to learn how to recognise **“numbers”**. 
++ Name your project `Journey to school` and set it to learn how to recognise `numbers`. 
 ![Create a project page](images/create.png)
 
-+ Click **“Add a value”**, name it “age” and make the type “number”. **Remember to use the values in your survey if you picked different ones!**
++ Click on **Add a value**. Name it `age` (or the value in the first column of your table) and make the type `number`. 
 ![Adding values](images/add-value.png)
 
-+ Click **Add another value** for a “number” value called “distance”. 
++ Click **Add another value**. Name the value `distance` (or the value in the second column of your table) and make the type `number`. 
 
-+ Do it a third time for a “number” value called “friends”. 
++ Add another value called `friends` (or the value in the third column of your table) and make the type `number`. 
 
-+ Click “Create” when it looks like the picture above. 
++ When you the page looks like the picture above, click on **Create**. 
 
-+ You should now see “journey to school” show up in the list of your
-projects. Click on it.
++ You should now see `journey to school` in the list of your projects. Click on the `journey to school` project.
 ![List of projects containing one entry: journey to school](images/list-of-projects.png)
 --- /task ---
