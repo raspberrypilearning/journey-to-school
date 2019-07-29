@@ -4,7 +4,7 @@
 + Click on the **Train** button to start to give your survey results to the computer.
 ![Train button](images/train.png)
 
-+ Now, you will create buckets to store the survey results. The names of your buckets will depend on the methods of transport that your classmates most often use. Click on **Add new label**. Then, create a bucket called `car`.
++ Now, you will create buckets to store the survey results. The names of your buckets will depend on the methods of transport that your classmates most often use. Click on **Add new label**, and create a bucket called `car`.
 
 + Now, create two more buckets called `walk` and `cycle`. 
 
