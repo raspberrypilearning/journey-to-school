@@ -1,4 +1,4 @@
-## Enter data
+## Enter your survey data
 
 --- task ---
 + Click on the **Train** button to start to give your survey results to the computer.
@@ -17,7 +17,7 @@ If you received different answers in your survey, use those names instead.
 + Click on the **Add example** button in the **car** bucket and then type in the first survey result for someone who travels by car. 
 ![Add example pop up box containg the values age: 5, distance: 2.8, friends: 1](images/add-example.png)
 
-+ Continue until you have entered all of the survey results.
++ Repeat until you have entered all of the survey results.
 ![3 buckets now full with data](images/all-results.png)
 
 --- /task ---
