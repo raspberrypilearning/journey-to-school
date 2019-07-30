@@ -40,7 +40,7 @@ Now, go back to the computer!
 
 + Click **Add another value** one more time. Name the value `friends` (or the value in the third column of your table) and make the type `number`. 
 
-+ When you the page looks like the picture above, click on **Create**. 
++ When the page looks like the picture above, click on **Create**. 
 
 + You should now see `journey to school` in your list of projects. Click on the `journey to school` project.
 ![List of projects containing one entry: journey to school](images/list-of-projects.png)
