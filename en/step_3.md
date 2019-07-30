@@ -14,7 +14,7 @@ If you received different answers in your survey, use those names instead.
 --- /task ---
 
 --- task ---
-+ Click on the **Add example** button in the **car** bucket and then type in the first survey result for someone who travels by car. 
++ Click on the **Add example** button in the **car** bucket and then type in the first survey result for someone who travels by car. Then, click on **Add**. 
 ![Add example pop up box containg the values age: 5, distance: 2.8, friends: 1](images/add-example.png)
 
 + Repeat until you have entered all of the survey results.
