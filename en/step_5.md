@@ -1,22 +1,20 @@
 ## Test your model
 
 --- task ---
-+ Click on the **“< Back to project”** link and then go back into the **Train** page
++ Click on **Back to project** to go back to the project page, then click on **Train** to go back to the **Train** page.
 
-+ Choose one of the survey responses you entered earlier, and delete it. 
-**Make sure you write down all of the values for the example you are deleting before you delete it.**
-We’ll need the values in a minute. Hover the mouse pointer over it, until the red cross appears. Click on that red cross to delete the example.
++ Choose one of the survey responses that you entered earlier. Write down all of the values of the survey response on a piece of paper, then delete the response from the bucket. To delete the response, hover the mouse cursor over the response, then click on the red cross that appears. 
 ![Deleting and entry from your data](images/delete-entry.png)
 --- /task ---
 
 --- task ---
-+ Click on the **“< Back to project”** link and then go back into the **Learn & Test** page.
++ Click on **Back to project**, to go back to the project page, then click on **Learn & Test** to go back to the **Learn & Test** page.
 
-+ Click on **Train new machine learning model** again. You might need to scroll down – the button is at the bottom of the page.
++ Click on **Train new machine learning model**, as you did before.
 --- /task ---
 
 --- task ---
-+ Once the new model has trained, enter the values that you deleted into the Test boxes.
++ Once the new model has finished the training, take the values that you have written down and enter them into the Test boxes.
 
 You know what the right answer for this is – it’s the bucket that you deleted this example from. Compare the computer’s prediction with the right answer. Did the computer get it right? 
 --- /task ---
