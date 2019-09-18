@@ -3,10 +3,10 @@ hero_image: images/banner.png
 description: Train a computer to guess how your classmates get to school
 theme: orange
 listed: false
-copyedit: false
+copyedit: true
 technologies: scratch
 software: scratch
-version: 4.0.0
+version: 4.0.1
 last_tested: "2019-06-04"
 steps:
   - title: Introduction
