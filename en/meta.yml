@@ -2,7 +2,7 @@ title: Journey to school
 hero_image: images/banner.png
 description: Train a computer to guess how your classmates get to school
 theme: orange
-listed: false
+listed: true
 copyedit: true
 technologies: scratch
 software: scratch
