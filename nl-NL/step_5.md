@@ -1,14 +1,14 @@
-## Test your model
+## Test je model
 
 \--- task \---
-+ Click on **Back to project** to go back to the project page, then click on **Train** to go back to the **Train** page.
++ Klik op **Terug naar project** om terug te gaan naar de projectpagina en klik vervolgens op **Train** om terug te gaan naar de **Train** pagina.
 
-+ Choose one of the survey responses that you entered earlier. Write down all of the values of the survey response on a piece of paper, then delete the response from the bucket. To delete the response, hover the mouse cursor over the response, then click on the red cross that appears. ![Deleting and entry from your data](images/delete-entry.png) \--- /task \---
++ Kies een van de antwoorden die je eerder hebt ingevoerd. Noteer alle waarden van het onderzoeksantwoord op een stuk papier en verwijder vervolgens het antwoord uit de container. Om het antwoord te verwijderen, beweeg je de muiscursor over het antwoord en klik je op het rode kruis dat verschijnt. ![Deleting and entry from your data](images/delete-entry.png) \--- /task \---
 
 \--- task \---
-+ Click on **Back to project** to go back to the project page, then click on **Learn & Test** to go back to the **Learn & Test** page.
++ Klik op **Terug naar project** om terug te gaan naar de projectpagina en klik vervolgens op **Leer & Test** om terug te gaan naar de pagina **Leer & Test**.
 
-+ Click on **Train new machine learning model**, as you did before. \--- /task \---
++ Klik op **Train nieuw machine learning model**, zoals je eerder deed. \--- /task \---
 
 \--- task \---
 + Once the new model has finished the training, take the values that you have written down and enter them into the Test boxes.
