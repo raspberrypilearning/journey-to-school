@@ -1,23 +1,23 @@
-## Train a new machine learning model
-Now, you will use your survey results to train the computer.
+## Train een nieuw model voor machine learning
+Nu ga je je enquêteresultaten gebruiken om de computer te trainen.
 
 \--- task \---
 
-+ Click on **Back to project** in the top left-hand corner to take you back to the project page. Then, click on **Learn & Test** to use your examples.
++ Klik op **Terug naar project** in de linkerbovenhoek om terug te keren naar de projectpagina. Klik vervolgens op **Leer & Test** om je voorbeelden te gebruiken.
 
-+ Click the **Train new machine learning model** button. It should only take a few seconds to train. ![Train new machine learning model button](images/train-model.png)
++ Klik op de knop **Train nieuwe machine learning model**. Het duurt maar een paar seconden om te trainen. ![De knop voor train het nieuwe machine learning-model](images/train-model.png)
 
-\--- /task \---
+\---/task\---
 
 \--- task \---
 
-Once the training has finished, a Test box should appear. Use this to test your model.
-+ Enter the values into the Test text boxes and click on **Test**. ![Prediction, walk, being made after analysing values 9, 1.1 and 0](images/test-annotated.png)
+Nadat de training is voltooid, verschijnt er een testvak. Gebruik dit om je model te testen.
++ Voer de waarden in de testtekstvakken in en klik op **Test**. ![Voorspelling, lopen, gemaakt na het analyseren van waarden 9, 1.1 en 0](images/test-annotated.png)
 
-+ Keep testing to try to work out the patterns that the computer has seen in your survey data.
++ Blijf testen om te proberen de patronen uit te werken die de computer in je enquêtegegevens heeft gezien.
 
-As you make the age higher, does the computer think walking becomes more likely than going by car? If so, what is the age where the computer seems to have seen the change?
+Denkt de computer naarmate je ouder wordt, dat lopen waarschijnlijker wordt dan met de auto gaan? Zo ja, op welke leeftijd lijkt de computer de verandering te hebben gezien?
 
 \--- /task \---
 
-You have now used numbers from a travel survey to train a simple machine learning model. You have created a **predictive model** (called a predictive model because we use models like this to make predictions). You could use this model to make predictions about how likely someone is to walk to school based on their age and how far from school they live. But how accurate are the predictions? You will test that in the next step.
+Je hebt nu cijfers uit een reisenquête gebruikt om een eenvoudig machine learning-model te trainen. Je hebt een **voorspellend model** gecreëerd (een voorspellend model genoemd, omdat we gebruik maken van modellen zoals deze om voorspellingen te doen). Je zou dit model kunnen gebruiken om voorspellingen te doen over hoe waarschijnlijk het is dat iemand naar school loopt op basis van zijn leeftijd en hoe ver hij of zij van school woont. Maar hoe nauwkeurig zijn de voorspellingen? Je zult dat in de volgende stap testen.
