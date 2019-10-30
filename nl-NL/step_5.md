@@ -11,13 +11,13 @@
 + Klik op **Train nieuw machine learning model**, zoals je eerder deed. \--- /task \---
 
 \--- task \---
-+ Once the new model has finished the training, take the values that you have written down and enter them into the Test boxes.
++ Nadat het nieuwe model de training heeft voltooid, neem je de waarden die je hebt genoteerd en voer je deze in de testvakken in.
 
-You know the right answer for this test — it is the bucket that you deleted the example from. Compare the computer’s prediction with the right answer. Did the computer get it right? \--- /task \---
+Je weet het juiste antwoord voor deze test - het is de container waaruit je het voorbeeld hebt verwijderd. Vergelijk de voorspelling van de computer met het juiste antwoord. Heeft de computer het goed gedaan? \--- /task \---
 
-You have now tested your predictive machine learning model to see how accurate it is. You asked the computer for the answer to a question that it hadn't seen before (because you had deleted the example from the computer's training before the test). If you test the computer on an example that it has seen before, and that it has therefore learned from in its training, then you can’t really tell if the computer has learned how to work out the answer for itself.
+Je hebt nu je voorspellend machine learning-model getest om te zien hoe nauwkeurig het is. Je vroeg de computer om het antwoord op een vraag die hij nog niet eerder had gezien (omdat je het voorbeeld vóór de test uit de training van de computer had verwijderd). Als je de computer test op een voorbeeld dat het eerder heeft gezien en dat het daarom in zijn training heeft geleerd, dan kun je niet echt zeggen of de computer heeft geleerd hoe hij het antwoord zelf moet uitwerken.
 
-+ But how fair a test was it?
-+ Did you choose a really easy example? (Like a student who lives a really, really long way from school!)
-+ Or did you choose a really hard example?
-+ How could you have chosen an example to make it fair?
++ Maar hoe eerlijk was het?
++ Heb je een heel eenvoudig voorbeeld gekozen? (Zoals een leerling die heel, heel ver van school woont!)
++ Of heb je een heel moeilijk voorbeeld gekozen?
++ Hoe had je een voorbeeld kunnen kiezen om het eerlijk te maken?
