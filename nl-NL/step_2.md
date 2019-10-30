@@ -1,39 +1,39 @@
-## Create a new project to recognise numbers
+## Maak een nieuw project om getallen te herkennen
 
-For this project, you will need to do a survey with your classmates. The more people you ask, the better! **Note:** If you cannot run a survey, that's OK. You can [find sample results here](https://github.com/raspberrypilearning/journey-to-school/en/resources){:target="_blank"}.
-
-\--- task \---
-
-Write two or three questions to ask your classmates about how they travel to school. You need questions that they can answer with a number. You could use:
-+ Age (in years)
-+ Distance (miles from home to school)
-+ Number of siblings or school friends who live nearby
-
-But you can choose your own values. Make sure that the answers are numbers, and pick things that have something to do with their journey to school.
-
-Draw up a table to collect the results, and then do your survey. Ask your classmates how they travel to school, as well as your questions. The more people you ask, the better. It is even better if you can ask people from different classes and years. ![An example of a survey sheet](images/survey-sheet.png) \--- /task \---
-
-\--- task \--- Now, go back to the computer!
-
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}
-
-+ Click on **Get started**.
-
-+ Click on **Try it now**. \--- /task \---
+Voor dit project moet je een enquête houden met je klasgenoten. Hoe meer mensen je vraagt, hoe beter! **Opmerking:** Als je geen enquête kunt uitvoeren, is dat OK. Je kunt [hier voorbeeldresultaten vinden](https://github.com/raspberrypilearning/journey-to-school/en/resources){:target="_blank"}.
 
 \--- task \---
-+ Click on **Projects** in the menu bar at the top of the page.
 
-+ Click the **Add a new project** button.
+Schrijf twee of drie vragen om je klasgenoten te vragen hoe ze naar school reizen. Je hebt vragen nodig die zij met een getal kunnen beantwoorden. Je zou kunnen gebruiken:
++ Leeftijd (in jaren)
++ Afstand (kilometers van huis naar school)
++ Aantal broers en zussen of schoolvrienden die in de buurt wonen
 
-+ Name your project `journey to school` and set it to learn how to recognise `numbers`. ![Create a project page](images/create.png)
+Maar je kunt je eigen waarden kiezen. Zorg ervoor dat de antwoorden getallen zijn en kies dingen die iets te maken hebben met hun reis naar school.
 
-+ Click on **Add a value**. Name it `age` (or the value in the first column of your table) and make the type `number`. ![Adding values](images/add-value.png)
+Maak een tabel om de resultaten te verzamelen en voer vervolgens je enquête uit. Vraag je klasgenoten hoe ze naar school reizen en stel je eigen vragen. Hoe meer mensen je vraagt, hoe beter. Het is nog beter als je mensen uit verschillende klassen en jaren kunt vragen. ![An example of a survey sheet](images/survey-sheet.png) \--- /task \---
 
-+ Click **Add another value**. Name the value `distance` (or the value in the second column of your table) and make the type `number`.
+\--- task \--- Ga nu terug naar de computer!
 
-+ Click **Add another value** one more time. Name the value `friends` (or the value in the third column of your table) and make the type `number`.
++ Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}
 
-+ When the page looks like the picture above, click on **Create**.
++ Klik op **Begin**.
 
-+ You should now see `journey to school` in your list of projects. Click on the `journey to school` project. ![List of projects containing one entry: journey to school](images/list-of-projects.png) \--- /task \---
++ Klik op **Probeer nu**. \--- /task \---
+
+\--- task \---
++ Klik op **Projecten** in de menubalk bovenaan de pagina.
+
++ Klik op de knop **Voeg een nieuw project toe**.
+
++ Noem je project `reis naar school`, stel het in om te leren hoe je `getallen` kunt herkennen en stel de taal in op Dutch (Nederlands). ![Pagina voor maak een project](images/create.png)
+
++ Klik op **Add a value**. Noem het `leeftijd` (of de waarde in de eerste kolom van je tabel) en geef het type `getal`. ![Waarden toevoegen](images/add-value.png)
+
++ Klik op **Add another value**. Noem de waarde `afstand` (of de waarde in de tweede kolom van je tabel) en geef het type `getal`.
+
++ Klik nog een keer op **Add another value**. Noem de waarde `vrienden` (of de waarde in de derde kolom van je tabel) en geef het type `getal`.
+
++ Wanneer de pagina eruitziet zoals op de bovenstaande afbeelding, klik je op **Creëer**.
+
++ Je zou nu `reis naar school` in je lijst met projecten moeten zien. Klik op het project `reis naar school`. ![List of projects containing one entry: journey to school](images/list-of-projects.png) \--- /task \---
