@@ -1,19 +1,19 @@
-## Uitdaging: gebruik je model in Scratch
+## Challenge: use your model in Scratch
 
---- challenge --- Nu je het project hebt voltooid, kun je een van deze projecten proberen of een eigen project bedenken.
+--- challenge --- Now that you have finished the project, you could try one of these projects, or think of a project of your own.
 
-**Gebruik dit programma in Scratch**
+**Use this program in Scratch**
 
-Kun je raden wat dit stukje code in Scratch zal doen? ![Voorbeeld van wat scratch-code met nieuwe blokken](images/scratch.png)
+Can you guess what this piece of code will do in Scratch? ![Example of some scratch code using new blocks](images/scratch.png)
 
-Wat dacht je van deze? ![Een ander voorbeeld van wat scratch-code die nieuwe blokken gebruikt](images/scratch-2.png)
+What about this one? ![Another example of some scratch code using new blocks](images/scratch-2.png)
 
-Kun je een manier bedenken om het vermogen van de computer te gebruiken in een game om te voorspellen hoe mensen naar school reizen? Klik op **Maak** om je model in Scratch te gebruiken. Als je wilt, kun je de bovenstaande voorbeelden gebruiken. ![Maak knop](images/train.png)
+Can you think of a way to use the computer’s ability to predict how people travel to school in a game? Click **Make** to use your model in Scratch. If you like, you could use the examples above. ![Make button](images/train.png)
 
-**Probeer grotere tests**
+**Try bigger tests**
 
-In plaats van slechts één voorbeeld uit de trainingsgegevens te verwijderen en dat te gebruiken om te testen, kun je meer voorbeelden gebruiken.
+Instead of just deleting one example from the training data and using that to test, you could use more examples.
 
-Hoeveel voorbeelden denk je dat je moet gebruiken om te testen?
-+ Als je te weinig voorbeelden gebruikt, weet je niet zeker hoe goed de computer is.
-+ Als je te veel voorbeelden gebruikt, verminder je hoeveel voorbeelden de computer moet leren. --- /challenge ---
+How many examples do you think you should use for testing?
++ If you use too few examples, you can’t be sure how good the computer is.
++ If you use too many examples, you reduce how many examples the computer has to learn from. --- /challenge ---
