@@ -2,7 +2,7 @@
 
 Voor dit project moet je een enquête houden met je klasgenoten. Hoe meer mensen je vraagt, hoe beter! **Opmerking:** Als je geen enquête kunt uitvoeren, is dat OK. Je kunt [hier voorbeeldresultaten vinden](https://github.com/raspberrypilearning/journey-to-school/en/resources){:target="_blank"}.
 
-\--- task \---
+--- task ---
 
 Schrijf twee of drie vragen om je klasgenoten te vragen hoe ze naar school reizen. Je hebt vragen nodig die zij met een getal kunnen beantwoorden. Je zou kunnen gebruiken:
 + Leeftijd (in jaren)
@@ -11,17 +11,17 @@ Schrijf twee of drie vragen om je klasgenoten te vragen hoe ze naar school reize
 
 Maar je kunt je eigen waarden kiezen. Zorg ervoor dat de antwoorden getallen zijn en kies dingen die iets te maken hebben met hun reis naar school.
 
-Maak een tabel om de resultaten te verzamelen en voer vervolgens je enquête uit. Vraag je klasgenoten hoe ze naar school reizen en stel je eigen vragen. Hoe meer mensen je vraagt, hoe beter. Het is nog beter als je mensen uit verschillende klassen en jaren kunt vragen. ![An example of a survey sheet](images/survey-sheet.png) \--- /task \---
+Maak een tabel om de resultaten te verzamelen en voer vervolgens je enquête uit. Vraag je klasgenoten hoe ze naar school reizen en stel je eigen vragen. Hoe meer mensen je vraagt, hoe beter. Het is nog beter als je mensen uit verschillende klassen en jaren kunt vragen. ![An example of a survey sheet](images/survey-sheet.png) --- /task ---
 
-\--- task \--- Ga nu terug naar de computer!
+--- task --- Ga nu terug naar de computer!
 
 + Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}
 
 + Klik op **Begin**.
 
-+ Klik op **Probeer nu**. \--- /task \---
++ Klik op **Probeer nu**. --- /task ---
 
-\--- task \---
+--- task ---
 + Klik op **Projecten** in de menubalk bovenaan de pagina.
 
 + Klik op de knop **Voeg een nieuw project toe**.
@@ -36,4 +36,4 @@ Maak een tabel om de resultaten te verzamelen en voer vervolgens je enquête uit
 
 + Wanneer de pagina eruitziet zoals op de bovenstaande afbeelding, klik je op **Creëer**.
 
-+ Je zou nu `reis naar school` in je lijst met projecten moeten zien. Klik op het project `reis naar school`. ![List of projects containing one entry: journey to school](images/list-of-projects.png) \--- /task \---
++ Je zou nu `reis naar school` in je lijst met projecten moeten zien. Klik op het project `reis naar school`. ![List of projects containing one entry: journey to school](images/list-of-projects.png) --- /task ---
