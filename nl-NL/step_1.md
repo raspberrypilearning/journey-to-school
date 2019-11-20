@@ -6,16 +6,16 @@ In dit project ga je de computer trainen om patronen te zoeken in hoe je klasgen
 
 ![Het machine learning-model dat een antwoord voorspelt](images/test.png)
 
-\--- collapse \---
+--- collapse ---
 ---
 title: Wat heb je nodig
 ---
 
 + Een computer met een internetverbinding
 
-\--- /collapse \---
+--- /collapse ---
 
-\--- collapse \---
+--- collapse ---
 ---
 title: Wat ga je leren
 ---
@@ -23,9 +23,9 @@ title: Wat ga je leren
 + Hoe een machine learning-model te trainen om getallen te herkennen
 + Hoe je je getrainde machine learning-model kunt gebruiken om voorspellingen te doen
 
-\--- /collapse \---
+--- /collapse ---
 
-\--- collapse \---
+--- collapse ---
 ---
 title: Aanvullende informatie voor docenten
 ---
@@ -34,7 +34,7 @@ Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](h
 
 [Hier is een link naar de bronnen voor dit project](https://github.com/raspberrypilearning/journey-to-school/en/resources){:target="_blank"}.
 
-\--- /collapse \---
+--- /collapse ---
 
 ### Licentie
 
