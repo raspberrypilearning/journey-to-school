@@ -1,6 +1,6 @@
 ## Uitdaging: gebruik je model in Scratch
 
-\--- challenge \--- Nu je het project hebt voltooid, kun je een van deze projecten proberen of een eigen project bedenken.
+--- challenge --- Nu je het project hebt voltooid, kun je een van deze projecten proberen of een eigen project bedenken.
 
 **Gebruik dit programma in Scratch**
 
@@ -16,4 +16,4 @@ In plaats van slechts één voorbeeld uit de trainingsgegevens te verwijderen en
 
 Hoeveel voorbeelden denk je dat je moet gebruiken om te testen?
 + Als je te weinig voorbeelden gebruikt, weet je niet zeker hoe goed de computer is.
-+ Als je te veel voorbeelden gebruikt, verminder je hoeveel voorbeelden de computer moet leren. \--- /challenge \---
++ Als je te veel voorbeelden gebruikt, verminder je hoeveel voorbeelden de computer moet leren. --- /challenge ---
