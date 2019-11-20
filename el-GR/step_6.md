@@ -1,6 +1,6 @@
 ## Challenge: use your model in Scratch
 
-\--- challenge \--- Now that you have finished the project, you could try one of these projects, or think of a project of your own.
+--- challenge --- Now that you have finished the project, you could try one of these projects, or think of a project of your own.
 
 **Use this program in Scratch**
 
@@ -16,4 +16,4 @@ Instead of just deleting one example from the training data and using that to te
 
 How many examples do you think you should use for testing?
 + If you use too few examples, you can’t be sure how good the computer is.
-+ If you use too many examples, you reduce how many examples the computer has to learn from. \--- /challenge \---
++ If you use too many examples, you reduce how many examples the computer has to learn from. --- /challenge ---
