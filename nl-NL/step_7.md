@@ -1,7 +1,7 @@
-## Wat kun je verder nog doen?
+## What next?
 
-Probeer onze andere machine learning met Scratch-projecten als je dat nog niet hebt gedaan.
+If you haven't already, try our other machine learning with Scratch projects.
 
-[Slim klaslokaal](https://projects.raspberrypi.org/en/projects/smart-classroom)
+[Smart classroom](https://projects.raspberrypi.org/en/projects/smart-classroom)
 
-[Buitenaardse taal](https://projects.raspberrypi.org/en/projects/alien-language)
+[Alien language](https://projects.raspberrypi.org/en/projects/alien-language)
