@@ -2,7 +2,7 @@
 
 For this project, you will need to do a survey with your classmates. The more people you ask, the better! **Note:** If you cannot run a survey, that's OK. You can [find sample results here](https://github.com/raspberrypilearning/journey-to-school/en/resources){:target="_blank"}.
 
-\--- task \---
+--- task ---
 
 Write two or three questions to ask your classmates about how they travel to school. You need questions that they can answer with a number. You could use:
 + Age (in years)
@@ -11,17 +11,17 @@ Write two or three questions to ask your classmates about how they travel to sch
 
 But you can choose your own values. Make sure that the answers are numbers, and pick things that have something to do with their journey to school.
 
-Draw up a table to collect the results, and then do your survey. Ask your classmates how they travel to school, as well as your questions. The more people you ask, the better. It is even better if you can ask people from different classes and years. ![An example of a survey sheet](images/survey-sheet.png) \--- /task \---
+Draw up a table to collect the results, and then do your survey. Ask your classmates how they travel to school, as well as your questions. The more people you ask, the better. It is even better if you can ask people from different classes and years. ![An example of a survey sheet](images/survey-sheet.png) --- /task ---
 
-\--- task \--- Now, go back to the computer!
+--- task --- Now, go back to the computer!
 
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"}
 
 + Click on **Get started**.
 
-+ Click on **Try it now**. \--- /task \---
++ Click on **Try it now**. --- /task ---
 
-\--- task \---
+--- task ---
 + Click on **Projects** in the menu bar at the top of the page.
 
 + Click the **Add a new project** button.
@@ -36,4 +36,4 @@ Draw up a table to collect the results, and then do your survey. Ask your classm
 
 + When the page looks like the picture above, click on **Create**.
 
-+ You should now see `journey to school` in your list of projects. Click on the `journey to school` project. ![List of projects containing one entry: journey to school](images/list-of-projects.png) \--- /task \---
++ You should now see `journey to school` in your list of projects. Click on the `journey to school` project. ![List of projects containing one entry: journey to school](images/list-of-projects.png) --- /task ---
