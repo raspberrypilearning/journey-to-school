@@ -1,7 +1,7 @@
 ---
-title: Reis naar school
+title: Journey to school
 hero_image: images/banner.png
-description: Train een computer om te raden hoe je klasgenoten naar school gaan
+description: Train a computer to guess how your classmates get to school
 theme: orange
 listed: true
 copyedit: true
@@ -13,15 +13,15 @@ steps:
   - 
     title: Inleiding
   - 
-    title: Maak een nieuw project om getallen te herkennen
+    title: Create a new project to recognise numbers
   - 
-    title: Voer je enquêtegegevens in
+    title: Enter your survey data
   - 
-    title: Train een nieuw model voor machine learning
+    title: Train a new machine learning model
   - 
-    title: Test je model
+    title: Test your model
   - 
-    title: "Uitdaging: gebruik je model in Scratch"
+    title: "Challenge: use your model in Scratch"
     challenge: true
   - 
-    title: Wat kun je verder nog doen?
+    title: What next?
