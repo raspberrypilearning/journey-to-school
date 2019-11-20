@@ -6,16 +6,16 @@ In this project, you will train the computer to look for patterns in how your cl
 
 ![The machine learning model predicting an answer](images/test.png)
 
-\--- collapse \---
+--- collapse ---
 ---
 title: What you will need
 ---
 
 + A computer with an internet connection
 
-\--- /collapse \---
+--- /collapse ---
 
-\--- collapse \---
+--- collapse ---
 ---
 title: What you will learn
 ---
@@ -23,9 +23,9 @@ title: What you will learn
 + How to train a machine learning model to recognise numbers
 + How to use your trained machine learning model to make predictions
 
-\--- /collapse \---
+--- /collapse ---
 
-\--- collapse \---
+--- collapse ---
 ---
 title: Additional information for educators
 ---
@@ -34,7 +34,7 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 [Here is a link to the resources for this project](https://github.com/raspberrypilearning/journey-to-school/en/resources){:target="_blank"}.
 
-\--- /collapse \---
+--- /collapse ---
 
 ### License
 
