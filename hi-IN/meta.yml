@@ -1,0 +1,20 @@
+---
+title: स्कूल का सफर
+hero_image: images/banner.png
+description: यह जानने के लिए कि आपके सहपाठी स्कूल कैसे जाते हैं, एक कंप्यूटर को प्रशिक्षित करें
+theme: orange
+listed: true
+copyedit: true
+technologies: scratch
+software: scratch
+version: 4.0.1
+last_tested: "2019-06-04"
+steps:
+  - title: परिचय
+  - title: संख्याओं को पहचानने के लिए एक नया प्रोजेक्ट बनाएं
+  - title: अपना सर्वेक्षण (survey) डेटा दर्ज करें
+  - title: एक नई मशीन लर्निंग मॉडल को प्रशिक्षित करें
+  - title: अपने मॉडल का परीक्षण (test) करें
+  - title: "चुनौती: Scratch में अपने मॉडल का उपयोग करें"
+    challenge: true
+  - title: आगे क्या?
