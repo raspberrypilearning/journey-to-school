@@ -32,7 +32,7 @@ title: Aanvullende informatie voor docenten
 
 Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/journey-to-school/print){:target="_ blank"}.
 
-[Hier is een link naar de bronnen voor dit project](https://github.com/raspberrypilearning/journey-to-school/nl-NL/resources){:target="_blank"}.
+[Hier is een link naar de bronnen voor dit project](https://github.com/raspberrypilearning/journey-to-school/tree/master/nl-NL/resources){:target="_blank"}.
 
 --- /collapse ---
 
