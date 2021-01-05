@@ -32,7 +32,7 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/journey-to-school/print){:target="_blank"}.
 
-[Here is a link to the resources for this project](https://github.com/raspberrypilearning/journey-to-school/en/resources){:target="_blank"}.
+[Here is a link to the resources for this project](https://github.com/raspberrypilearning/journey-to-school/tree/master/en/resources){:target="_blank"}.
 
 --- /collapse ---
 
