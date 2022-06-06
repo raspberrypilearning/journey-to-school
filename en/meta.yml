@@ -11,12 +11,14 @@ version: 4.0.1
 last_tested: '2019-06-04'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Create a new project to recognise numbers
 - title: Enter your survey data
+  completion:
+  - engaged
 - title: Train a new machine learning model
-  completion: internal
 - title: Test your model
+  completion:
+  - internal
 - title: 'Challenge: use your model in Scratch'
   challenge: true
 - title: What next?

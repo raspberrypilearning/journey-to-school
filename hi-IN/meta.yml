@@ -12,12 +12,14 @@ version: 4.0.1
 last_tested: '2019-06-04'
 steps:
 - title: परिचय
-  completion: engaged
 - title: संख्याओं को पहचानने के लिए एक नया प्रोजेक्ट बनाएं
 - title: अपना सर्वेक्षण (survey) डेटा दर्ज करें
+  completion:
+  - engaged
 - title: एक नई मशीन लर्निंग मॉडल को प्रशिक्षित करें
-  completion: internal
 - title: अपने मॉडल का परीक्षण (test) करें
+  completion:
+  - internal
 - title: 'चुनौती: Scratch में अपने मॉडल का उपयोग करें'
   challenge: true
 - title: आगे क्या?
