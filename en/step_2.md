@@ -1,6 +1,6 @@
 ## Create a new project to recognise numbers
 
-For this project, you will need to do a survey with your classmates. The more people you ask, the better! **Note:** If you cannot run a survey, that's OK. You can [find sample results here](https://github.com/raspberrypilearning/journey-to-school/en/resources){:target="_blank"}.
+For this project, you will need to do a survey with your classmates. The more people you ask, the better! **Note:** If you cannot run a survey, that's OK. You can [find sample results here](https://github.com/raspberrypilearning/journey-to-school/tree/master/en/resources){:target="_blank"}.
 
 --- task ---
 
